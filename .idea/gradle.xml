@@ -17,11 +17,11 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/coroutines" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/threads" />
         <option name="gradleJvm" value="14" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/coroutines" />
+            <option value="$PROJECT_DIR$/threads" />
           </set>
         </option>
       </GradleProjectSettings>
